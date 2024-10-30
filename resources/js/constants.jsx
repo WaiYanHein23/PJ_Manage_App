@@ -16,7 +16,7 @@ export const PROJECT_STATUS_TEXT_MAP={
     'completed' : 'bg-green-500'
     }
 
-    export const TEXT_STATUS_TEXT_MAP={
+    export const TASK_STATUS_TEXT_MAP={
       'pending': 'Pending',
       'in_progress' : 'InProgress',
       'completed' : 'Completed'
